@@ -1,0 +1,6 @@
+{
+  "name": "webmodules/html2canvas",
+  "webmodules/html2canvas": {
+    "js": ["build/html2canvas.min.js"]
+  }
+}
